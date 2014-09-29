@@ -1,1 +1,3 @@
 https://www.facebook.com/add.php?api_key=384584495029085&pages=1
+
+http://www.facebook.com/dialog/pagetab?app_id=384584495029085&next=https://be9em0capi.github.io/FBMocapi/
